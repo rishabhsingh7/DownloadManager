@@ -7,7 +7,6 @@ Download Manager in Java to download multiple files in parts parallely
 Execution Logic
 
 •	Take a new URL from the user.
-
 •	Check URL for validity.
 
 •	Spawn a new thread for each new URL.
